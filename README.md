@@ -5,6 +5,7 @@
 
 
 <h3>A basic console-based library management system</h3>
+<video src="video.mp4">
 <hr>
 <h2>Build and run</h2>
 <img src="img/build.png" alt="BASH Terminal" Title="Build and run">
