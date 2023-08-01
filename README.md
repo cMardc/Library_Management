@@ -16,3 +16,16 @@
 <hr>
 <h2>Build and run</h2>
 <img src="img/build.png" alt="BASH Terminal" Title="Build and run">
+<hr>
+
+<h2>How to use</h2>
+<lu>
+<ul> add - Adds a new book</ul>
+<ul> delete - Deletes a book</ul>
+<ul> show - Shows all books</ul>
+<ul> view - views books with a search keyword</ul>
+<ul> borrow - Borrows a book</ul>
+<ul> return - Returns a book</ul>
+<ul> help - Shows list of commands</ul>
+<ul> exit - Exits the app</ul>
+<hr>
