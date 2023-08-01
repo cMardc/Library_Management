@@ -39,6 +39,12 @@
 <img src="img/borrowcmd.png" alt="Commands" Title="Commands"><br><hr>
 <h3>Return</h3>
 <h4>Returns a book. Takes 1 argument: ID.</h4>
-<img src="img/returncmd.png" alt="Commands" Title="Commands"><br><hr>
+<img src="img/returncmd.png" alt="Commands" Title="Commands"><br>
+<hr>
 
 <hr>
+<h4>Made by ~cM</h4>
+<h5>Other links : </h5>
+<a href="https://discord.gg/5W4XtHkc6g">Discord</a>
+
+![Discord](https://img.shields.io/discord/1051030547402588170)
