@@ -5,4 +5,6 @@
 
 
 <h3>A basic console-based library management system</h3>
+<hr>
+<h2>Build and run</h2>
 
