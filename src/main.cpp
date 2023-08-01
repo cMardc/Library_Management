@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     vector<book> books;
 
     //Help String
-    string help = "Something Here";
+    string help = "Commands : add, delete, view, show, borrow, return, exit, help\n";
 
 
     cout << "Type \"help\" To Get Help\n";
