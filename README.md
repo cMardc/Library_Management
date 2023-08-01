@@ -20,4 +20,14 @@
 
 <h2>How to use</h2>
 <img src="img/commands.png" alt="Commands" Title="Commands">
+
+<h3>Command examples</h3>
+
+<img src="img/Add.png" alt="Commands" Title="Commands"><br>
+<img src="img/deletecmd.png" alt="Commands" Title="Commands"><br>
+<img src="img/showcmd.png" alt="Commands" Title="Commands"><br>
+<img src="img/viewcmd.png" alt="Commands" Title="Commands"><br>
+<img src="img/borrowcmd.png" alt="Commands" Title="Commands"><br>
+<img src="img/returncmd.png" alt="Commands" Title="Commands"><br>
+
 <hr>
